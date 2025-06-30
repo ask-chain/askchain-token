@@ -1,0 +1,8 @@
+{
+  "name": "AskChain",
+  "symbol": "ASK",
+  "address": "0xA48026ff82AC7C773952359A9f9dE04C7C5a6549",
+  "chainId": 1,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/TON_USERNAME/askchain-token/main/logo.png"
+}
