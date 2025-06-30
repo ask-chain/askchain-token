@@ -23,7 +23,7 @@
 
 ## 🔐 Smart Contract
 
-- **Verified Contract Address:** `CONTRACT_ADDRESS_HERE`
+- **Verified Contract Address:** `0xA48026ff82AC7C773952359A9f9dE04C7C5a6549`
 - **Source Code:** Available in this repository
 - **Audit Status:** (To be completed)
 
