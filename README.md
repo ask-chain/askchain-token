@@ -51,6 +51,28 @@ Deployed via [Remix](https://remix.ethereum.org/) using Solidity `^0.8.20`.
 
 AskChain is a decentralized, crypto-native platform where users ask and answer questions in exchange for token rewards — building the next generation of knowledge sharing, without ads or central control.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+News
+----
+✅ Liquidity Rebalanced for $ASK Token
+
+To ensure price stability and a healthier trading environment, we’ve rebalanced the liquidity of the ASK/ETH pool.
+
+🔁 Old misaligned pool ignored  
+💧 New pool created at fair value  
+🔒 LP tokens to be locked transparently 
+🛠 Small initial volume to prevent manipulation  
+
+We’re now fully aligned with our goal: 
+🎯 1 ASK = $0.000005
+
+📎 Official Uniswap Link: https://app.uniswap.org/explore/tokens/base/0xa48026ff82ac7c773952359a9f9de04c7c5a6549
+📊 DexTools: https://www.dextools.io/app/en/base/pair-explorer/0x6ea642d53a7bd5d55d6dee5f321587156c7c4662?t=1751343441086
+🔐 LP Lock: -> Soon
+
+Thanks for your support — let’s grow this project transparently, step by step! 🙌
+
+
 ## 📄 License
 
 MIT © AskChain
