@@ -67,7 +67,9 @@ We’re now fully aligned with our goal:
 🎯 1 ASK = $0.000005
 
 📎 Official Uniswap Link: https://app.uniswap.org/explore/tokens/base/0xa48026ff82ac7c773952359a9f9de04c7c5a6549
+
 📊 DexTools: https://www.dextools.io/app/en/base/pair-explorer/0x6ea642d53a7bd5d55d6dee5f321587156c7c4662?t=1751343441086
+
 🔐 LP Lock: -> Soon
 
 Thanks for your support — let’s grow this project transparently, step by step! 🙌
